@@ -1,4 +1,5 @@
-#Project Title: T20 World Cup 2022 Cricket Analytics
+# **Project Title: T20 World Cup 2022 Cricket Analytics**
+
 This project involved analyzing player and team performance data from the 2022 T20 World Cup using Python and Power BI.
 
 ## Documentation
