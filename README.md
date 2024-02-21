@@ -7,7 +7,7 @@ Please refer to the [PDF report](./T20_Cricket_Project_Report.pdf) for more deta
 ## Dashboard Samples
 Some samples of the interactive Power BI dashboards created for this analysis:
 ### Openers
-![Batting Dashboard](./DashboardImages/openers.png)
+![Batting Dashboard](./DashboardImages/openers.PNG)
 
 ### Middle-Order
 ![Batting Dashboard](./DashboardImages/Middel_order.png)
