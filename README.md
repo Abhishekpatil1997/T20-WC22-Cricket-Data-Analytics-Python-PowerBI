@@ -12,9 +12,17 @@ Some samples of the interactive Power BI dashboards created for this analysis:
 ### Middle-Order
 ![Batting Dashboard](./DashboardImages/Middel_order.png)
 
-![Bowling Dashboard](images/bowling-dashboard.png) 
+### Finishers
+![Batting Dashboard](./DashboardImages/Finishers.PNG)
 
-![WC Team of the Tournament](images/team-of-tournament.png)
+### Lower Middle-Order
+![Batting Dashboard](./DashboardImages/lower_order.PNG)
+
+### Bowlers
+![Batting Dashboard](./DashboardImages/bowlers.PNG)
+
+### WC-11
+![Batting Dashboard](./DashboardImages/wc_11.PNG)
 
 ## About the Analysis
 
