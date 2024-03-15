@@ -4,7 +4,7 @@ This project involved analyzing player and team performance data from the 2022 T
 
 ## Documentation
 Please refer to the [PDF report](./T20_Cricket_Project_Report.pdf) for more details on the methodology, data preprocessing, analysis, visualizations and insights.
-
+# Live Dashboard: [Link](https://app.powerbi.com/view?r=eyJrIjoiNmEwMDBjNGEtNmUwZi00MjhjLTk3YTUtNDYzMDljOGUxNzliIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ## Dashboard Samples
 Some samples of the interactive Power BI dashboards created for this analysis:
 ### Openers
